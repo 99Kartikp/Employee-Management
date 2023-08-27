@@ -15,7 +15,7 @@ public class Config extends AbstractCouchbaseConfiguration {
 
     @Override
     public String getUserName() {
-        return "Administrator";
+        return "Kartik";
     }
 
     @Override
@@ -25,6 +25,6 @@ public class Config extends AbstractCouchbaseConfiguration {
 
     @Override
     public String getBucketName() {
-        return "Sample";
+        return "Student";
     }
 }
